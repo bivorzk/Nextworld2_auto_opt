@@ -1,6 +1,6 @@
 # Nextworld2 Auto Opt
 
-Automated tools for mouse interaction, game automation, and input analysis for Nextworld2 and similar games.
+Automated tools for mouse interaction, game automation, and input analysis for Nextw*rld2
 
 ## Features
 - **clicker.cpp**: Native Windows clicker (C++), simulates mouse clicks for game automation.
